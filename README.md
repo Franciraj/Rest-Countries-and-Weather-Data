@@ -39,12 +39,8 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-### Deployment
-https://inventory-management-rosy.vercel.app/
-
 ## Screenshots
-
-![country](https://github.com/user-attachments/assets/7318ba73-b8c7-408f-8aa7-855daaedb376)
+![country](https://github.com/user-attachments/assets/95aae8a1-b8f9-4bf8-a53c-8196ecce2f5e)
 
 ## Learn More
 
